@@ -5,5 +5,5 @@
   "dialogTitle": "Update Available",
   "updateButtonText": "Download & Install",
   "updateUrl": "https://raw.githubusercontent.com/jhoward-embedded/WatchThem/main/app-debug.apk"
-  // "apkHash": "sha256"   //
+  // "apkHash": ""   //
 }
