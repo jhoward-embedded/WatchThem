@@ -1,0 +1,9 @@
+{
+  "newVersionName": "2.0.0",
+  "updateMessage": "New version with bug fixes and improvements.",
+  "isUpdateForce": true,
+  "dialogTitle": "Update Available",
+  "updateButtonText": "Download & Install",
+  "updateUrl": "https://raw.githubusercontent.com/jhoward-embedded/WatchThem/main/app-debug.apk"
+  // "apkHash": "sha256"   //
+}
