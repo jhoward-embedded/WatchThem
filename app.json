@@ -1,9 +1,0 @@
-{
-  "newVersionName": "1.0",
-  "updateMessage": "New version with new bugs.",
-  "isUpdateForce": true,
-  "dialogTitle": "Update Available",
-  "updateButtonText": "Download & Install",
-  "updateUrl": "https://github.com/jhoward-embedded/WatchThem/raw/refs/heads/main/app-debug.apk"
-  // "apkHash": ""   //
-}
