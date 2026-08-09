@@ -4,6 +4,6 @@
   "isUpdateForce": true,
   "dialogTitle": "Update Available",
   "updateButtonText": "Download & Install",
-  "updateUrl": "https://watchthem.ct.ws/"
+  "updateUrl": "https://github.com/jhoward-embedded/WatchThem/raw/refs/heads/main/app-debug.apk"
   // "apkHash": ""   //
 }
